@@ -1,4 +1,4 @@
-- 👋 Hi, I’m _meugen_
+- 👋 Hi, I’m meugen!
 - 👀 I’m interested in javascript, AR-devices and internet of things.
 - 📫 How to reach me: eugen35@mail.ru
 
